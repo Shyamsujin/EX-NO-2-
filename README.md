@@ -1,5 +1,7 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
+## Name:SHYAM SUJIN U
+## Reg No.212223040201
  
 ## AIM:
 To write a Python program to implement the Playfair Substitution technique.
@@ -207,8 +209,6 @@ CipherText = ""
 for i in CipherList:
     CipherText += i
 print("CipherText:", CipherText)
-
-# This code is Contributed by Boda_Venkata_Nikith
 
 ~~~
 
